@@ -1,218 +1,111 @@
 <div align="center">
 
-# 👋 Hi, I'm Rakshitha R
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Rakshitha%20R%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AI%20%26%20Software%20Developer%20%7C%20Final%20Year%20Engineering%20Student&descAlignY=55&descSize=16" width="100%"/>
 
-### Aspiring AI & Software Development Learner  
-Building practical projects with Python, Streamlit, OpenCV, Machine Learning, and Web Technologies.
+</div>
+
+---
+
+<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+### 🌟 About Me
+
+- 🎓 Final-year **Engineering Student** targeting SDE roles
+- 🤖 Building projects in **AI, ML & Computer Vision**
+- 🐍 Love crafting apps with **Python & Streamlit**
+- 🌱 Actively learning **Deep Learning & NLP**
+- 💡 Passionate about turning ideas into working products
+- 📍 Based in **Karnataka, India**
+
+<br/>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI / ML / CV**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00D4AA?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Libraries & Tools**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-38BDF8?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🧠 **[FaceVision AI](https://github.com/Rakshitha-cpu)** | Face detection & recognition with enrollment, LBPH training, and recognition logs | Python · OpenCV · Streamlit |
+| 🖼️ **[VisionCaption AI](https://github.com/Rakshitha-cpu)** | Generates natural language captions for images using vision-language transformers | CV · NLP · Streamlit |
+| 💼 **[Smart Job Recommender](https://github.com/Rakshitha-cpu)** | TF-IDF + cosine similarity based job recommendation with skill gap analysis | Python · Scikit-learn · Streamlit |
+| 🎮 **[Tic-Tac-Toe AI](https://github.com/Rakshitha-cpu)** | Human vs AI game using Minimax algorithm with easy/hard difficulty modes | Python · Game AI · Streamlit |
+| 🤖 **[Student Assistant Chatbot](https://github.com/Rakshitha-cpu)** | Rule-based chatbot for student queries with keyword matching & chat history | Python · Rule-based AI · Streamlit |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakshitha-cpu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshitha-cpu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Learning-7C3AED?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-00D4AA?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Project%20Documentation-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rakshitha-cpu&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
-
-I am a student and an aspiring developer focused on learning **Artificial Intelligence**, **Python programming**, and practical software development.
-
-I am currently building hands-on projects in areas such as rule-based chatbots, game AI, image captioning, recommendation systems, and face recognition. My goal is to improve my coding skills by building projects that combine logic, user interface design, and real-world AI concepts.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming & Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### AI / Machine Learning / Computer Vision
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00D4AA?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F61?style=flat-square)
-![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-2563EB?style=flat-square)
-
-### Libraries & Tools
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-38BDF8?style=flat-square)
-
-### Version Control & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Smart Student Assistant Chatbot
-
-A rule-based chatbot built using Python and Streamlit. It responds to student-related queries using predefined responses, keyword matching, and basic conversation flow.
-
-**Key Features**
-
-- Greeting and help responses
-- Study tips
-- Python and AI explanations
-- Internship guidance
-- Date and time responses
-- Chat history
-- Streamlit frontend
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rule Based AI](https://img.shields.io/badge/Rule--Based%20AI-FF6F61?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
----
-
-### 🎮 Tic-Tac-Toe AI
-
-An AI-based Tic-Tac-Toe game where a human player competes against the computer. The AI uses logic-based decision making and Minimax algorithm concepts.
-
-**Key Features**
-
-- Human vs AI gameplay
-- Easy and hard modes
-- Minimax-based decision making
-- Score tracking
-- Interactive Streamlit interface
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Game AI](https://img.shields.io/badge/Game%20AI-7C3AED?style=flat-square)
-![Minimax](https://img.shields.io/badge/Minimax%20Algorithm-2563EB?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
----
-
-### 🖼️ VisionCaption AI
-
-An image captioning application that generates natural language captions for uploaded images using a pre-trained vision-language model.
-
-**Key Features**
-
-- Image upload
-- Caption generation
-- Editable caption output
-- Caption history
-- Streamlit-based interface
-
-**Tech Stack**
-
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00D4AA?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-FF6F61?style=flat-square)
-![Transformer](https://img.shields.io/badge/Transformer%20Model-7C3AED?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
----
-
-### 💼 Smart Job Recommendation System
-
-A job recommendation system that suggests suitable job roles based on candidate skills, preferred location, experience level, and job similarity.
-
-The system uses content-based filtering with TF-IDF vectorization and cosine similarity. It also includes skill gap analysis to show matched and missing skills.
-
-**Key Features**
-
-- Skill-based job recommendation
-- Job-role-based recommendation
-- Location filter
-- Experience level filter
-- Match score
-- Matched skills
-- Missing skills
-- Streamlit dashboard
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Recommendation System](https://img.shields.io/badge/Recommendation%20System-7C3AED?style=flat-square)
-![TF IDF](https://img.shields.io/badge/TF--IDF-2563EB?style=flat-square)
-![Cosine Similarity](https://img.shields.io/badge/Cosine%20Similarity-00D4AA?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
----
-
-### 🧠 FaceVision AI — Face Detection & Recognition System
-
-A face detection and recognition system built using Python, Streamlit, and OpenCV.
-
-The system can enroll faces, train a recognition model, recognize registered users, mark unknown faces, and store recognition logs.
-
-**Key Features**
-
-- Face detection using Haar Cascade
-- Face enrollment
-- Face recognition using LBPH
-- Unknown face handling
-- Data augmentation
-- Recognition threshold
-- Recognition logs
-- Downloadable CSV logs
-- Neon dashboard UI
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00D4AA?style=flat-square)
-![Face Recognition](https://img.shields.io/badge/Face%20Recognition-EC4899?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
----
-
-## 📚 Other Project Areas
-
-### 📖 Public Library Project
-
-A Java-based project related to library management and basic software application design.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Software Development](https://img.shields.io/badge/Software%20Development-2563EB?style=flat-square)
-
----
-
-### 🎨 UI / UX Projects
-
-Projects focused on interface design, user experience practice, and layout improvement.
-
-![UI UX](https://img.shields.io/badge/UI%2FUX%20Design-A855F7?style=flat-square)
-![Design Thinking](https://img.shields.io/badge/Design%20Thinking-EC4899?style=flat-square)
-
----
-
-## 📌 Areas I Am Exploring
+### 📌 Currently Exploring
 
 ```text
-Artificial Intelligence
-Machine Learning
-Computer Vision
-Natural Language Processing
-Recommendation Systems
-Python Development
-Streamlit Applications
-Java Projects
-UI / UX Design
-GitHub Documentation
+🔬  Deep Learning          ████████░░░░   Learning
+🗣️  NLP & LLMs             ██████░░░░░░   In Progress
+👁️  Computer Vision        █████████░░░   Building Projects
+📊  Recommendation Systems ████████░░░░   Applied in Projects
+🌐  Web Development        ██████░░░░░░   Exploring
 ```
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rakshitha--cpu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rakshitha-cpu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Rakshitha-cpu&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
