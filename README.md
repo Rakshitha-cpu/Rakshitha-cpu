@@ -1,38 +1,3 @@
-Yes. Your previous README became plain because it had escaped characters like:
-
-
-
-```text
-
-\\# 
-
-\\---
-
-!\\\[Python\\]
-
-```
-
-
-
-That is wrong. Markdown should be:
-
-
-
-```text
-
-\#
-
-\---
-
-!\[Python]
-
-```
-
-
-
-Copy \*\*only the content below\*\* into `README.md`.
-
-
 
 ````markdown
 
