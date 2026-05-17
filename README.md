@@ -1,20 +1,36 @@
-I checked your GitHub profile: it shows \*\*Rakshitha R / Rakshitha-cpu\*\* with public repositories including your profile repo and other project repos. (\[GitHub]\[1])
-
-
-
-Create/update your profile README here:
+Yes. Your previous README became plain because it had escaped characters like:
 
 
 
 ```text
 
-Rakshitha-cpu/Rakshitha-cpu/README.md
+\\# 
+
+\\---
+
+!\\\[Python\\]
 
 ```
 
 
 
-Copy-paste this full content:
+That is wrong. Markdown should be:
+
+
+
+```text
+
+\#
+
+\---
+
+!\[Python]
+
+```
+
+
+
+Copy \*\*only the content below\*\* into `README.md`.
 
 
 
@@ -24,7 +40,7 @@ Copy-paste this full content:
 
 
 
-\# Hi, I'm Rakshitha R 👋
+\# 👋 Hi, I'm Rakshitha R
 
 
 
@@ -38,17 +54,13 @@ Building practical projects with Python, Streamlit, OpenCV, Machine Learning, an
 
 
 
-\---
-
-
-
 <div align="center">
 
 
 
 !\[Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-!\[AI](https://img.shields.io/badge/Artificial%20Intelligence-Learning-7C3AED?style=for-the-badge)
+!\[Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Learning-7C3AED?style=for-the-badge)
 
 !\[Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-00D4AA?style=for-the-badge)
 
@@ -68,19 +80,15 @@ Building practical projects with Python, Streamlit, OpenCV, Machine Learning, an
 
 
 
-\## About Me
+\## 👩‍💻 About Me
 
 
 
-I am a student and an aspiring developer focused on learning Artificial Intelligence, Python programming, and real-world project development.
+I am a student and an aspiring developer focused on learning \*\*Artificial Intelligence\*\*, \*\*Python programming\*\*, and practical software development.
 
 
 
-I am currently building hands-on projects in areas such as rule-based chatbots, game AI, image captioning, recommendation systems, and face recognition. My goal is to improve my programming skills by working on practical applications that combine logic, user interface design, and AI concepts.
-
-
-
-I use GitHub to document my learning journey, internship tasks, and project work.
+I am currently building hands-on projects in areas such as rule-based chatbots, game AI, image captioning, recommendation systems, and face recognition. My goal is to improve my coding skills by building projects that combine logic, user interface design, and real-world AI concepts.
 
 
 
@@ -88,7 +96,7 @@ I use GitHub to document my learning journey, internship tasks, and project work
 
 
 
-\## Technical Skills
+\## 🛠️ Technical Skills
 
 
 
@@ -106,7 +114,7 @@ I use GitHub to document my learning journey, internship tasks, and project work
 
 
 
-\### AI / ML / Computer Vision
+\### AI / Machine Learning / Computer Vision
 
 
 
@@ -154,17 +162,15 @@ I use GitHub to document my learning journey, internship tasks, and project work
 
 
 
-\## Featured AI Internship Projects
+\## 🚀 Featured Projects
 
 
 
-\### 1. Smart Student Assistant Chatbot
+\### 🤖 Smart Student Assistant Chatbot
 
 
 
-A rule-based chatbot built using Python.  
-
-It responds to student-related queries using predefined responses, keyword matching, and basic conversation flow.
+A rule-based chatbot built using Python and Streamlit. It responds to student-related queries using predefined responses, keyword matching, and basic conversation flow.
 
 
 
@@ -172,7 +178,7 @@ It responds to student-related queries using predefined responses, keyword match
 
 
 
-\- Greeting responses
+\- Greeting and help responses
 
 \- Study tips
 
@@ -188,7 +194,7 @@ It responds to student-related queries using predefined responses, keyword match
 
 
 
-\*\*Concepts Used\*\*
+\*\*Tech Stack\*\*
 
 
 
@@ -204,15 +210,11 @@ It responds to student-related queries using predefined responses, keyword match
 
 
 
-\### 2. Tic-Tac-Toe AI
+\### 🎮 Tic-Tac-Toe AI
 
 
 
-An AI-based Tic-Tac-Toe game where a human player competes against the computer.
-
-
-
-The project includes game logic and AI decision-making using concepts such as Minimax search.
+An AI-based Tic-Tac-Toe game where a human player competes against the computer. The AI uses logic-based decision making and Minimax algorithm concepts.
 
 
 
@@ -232,7 +234,7 @@ The project includes game logic and AI decision-making using concepts such as Mi
 
 
 
-\*\*Concepts Used\*\*
+\*\*Tech Stack\*\*
 
 
 
@@ -250,7 +252,7 @@ The project includes game logic and AI decision-making using concepts such as Mi
 
 
 
-\### 3. VisionCaption AI
+\### 🖼️ VisionCaption AI
 
 
 
@@ -266,15 +268,15 @@ An image captioning application that generates natural language captions for upl
 
 \- Caption generation
 
-\- Caption history
-
 \- Editable caption output
 
-\- Streamlit-based user interface
+\- Caption history
+
+\- Streamlit-based interface
 
 
 
-\*\*Concepts Used\*\*
+\*\*Tech Stack\*\*
 
 
 
@@ -292,7 +294,7 @@ An image captioning application that generates natural language captions for upl
 
 
 
-\### 4. Smart Job Recommendation System
+\### 💼 Smart Job Recommendation System
 
 
 
@@ -326,7 +328,7 @@ The system uses content-based filtering with TF-IDF vectorization and cosine sim
 
 
 
-\*\*Concepts Used\*\*
+\*\*Tech Stack\*\*
 
 
 
@@ -346,7 +348,7 @@ The system uses content-based filtering with TF-IDF vectorization and cosine sim
 
 
 
-\### 5. FaceVision AI — Face Detection \& Recognition System
+\### 🧠 FaceVision AI — Face Detection \& Recognition System
 
 
 
@@ -374,7 +376,7 @@ The system can enroll faces, train a recognition model, recognize registered use
 
 \- Recognition threshold
 
-\- Attendance-style recognition logs
+\- Recognition logs
 
 \- Downloadable CSV logs
 
@@ -382,7 +384,7 @@ The system can enroll faces, train a recognition model, recognize registered use
 
 
 
-\*\*Concepts Used\*\*
+\*\*Tech Stack\*\*
 
 
 
@@ -402,19 +404,15 @@ The system can enroll faces, train a recognition model, recognize registered use
 
 
 
-\## Other Projects
+\## 📚 Other Project Areas
 
 
 
-\### Public Library Project
+\### 📖 Public Library Project
 
 
 
 A Java-based project related to library management and basic software application design.
-
-
-
-\*\*Concepts Used\*\*
 
 
 
@@ -428,15 +426,11 @@ A Java-based project related to library management and basic software applicatio
 
 
 
-\### UI / UX Projects
+\### 🎨 UI / UX Projects
 
 
 
-Projects focused on user interface and user experience design practice.
-
-
-
-\*\*Concepts Used\*\*
+Projects focused on interface design, user experience practice, and layout improvement.
 
 
 
@@ -450,27 +444,7 @@ Projects focused on user interface and user experience design practice.
 
 
 
-\### Cloudcoin
-
-
-
-A Python project listed in my GitHub repositories.
-
-
-
-\*\*Concepts Used\*\*
-
-
-
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-
-
-
-\---
-
-
-
-\## Project Areas I Am Exploring
+\## 📌 Areas I Am Exploring
 
 
 
@@ -504,7 +478,7 @@ GitHub Documentation
 
 
 
-\## Current Learning Focus
+\## 🌱 Current Learning Focus
 
 
 
@@ -532,7 +506,7 @@ Deployment basics
 
 
 
-\## GitHub Stats
+\## 📊 GitHub Stats
 
 
 
@@ -556,7 +530,7 @@ Deployment basics
 
 
 
-\## GitHub Activity
+\## 🔥 GitHub Activity
 
 
 
@@ -576,7 +550,7 @@ Deployment basics
 
 
 
-\## Career Goal
+\## 🎯 Career Goal
 
 
 
@@ -592,7 +566,7 @@ I am focusing on improving my coding skills, understanding real-world AI workflo
 
 
 
-\## Connect With Me
+\## 📫 Connect With Me
 
 
 
